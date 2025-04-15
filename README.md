@@ -8,8 +8,8 @@
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
+![Screenshot 2025-04-15 135549](https://github.com/user-attachments/assets/6c9f5ff0-e3b4-4c3f-9d07-edf0b5d1bfb1)
 
-![Screenshot 2025-04-15 134605](https://github.com/user-attachments/assets/36408e57-d1bb-4c70-8b86-fc6bdcd9891b)
 
 ## ✨ Features
 
@@ -33,7 +33,7 @@
 | Layer          | Technology                               |
 |----------------|------------------------------------------|
 | **Frontend**   | React.js, Tailwind CSS, Socket.io-client |
-| **Backend**    | Node.js, Express, MongoDB, Socket.io     |
+| **Backend**    | Node.js, Express, Socket.io     |
 | **Database**   | PostgreSQL with Prisma ORM               |
 | **Auth**       | JWT                                      |
 | **Realtime**   | Socket.io                                |
